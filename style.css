@@ -1,0 +1,76 @@
+.counter{
+    font-size: 100px;
+    font-weight: 600;
+    font-family: watch;
+    width: 600px;
+    margin: auto;
+}
+
+
+@font-face{
+    src: url(./font/digital-7.ttf);
+    font-family: watch;
+}
+
+
+.product_box{
+   display: none;
+}
+
+p span{
+    text-decoration: line-through;
+
+}
+
+
+.all_box{
+    background-color: aqua;
+    padding: 50px;
+}
+
+#plist{
+    margin-bottom: 50px;
+}
+
+
+.boxdiv{
+
+    margin-top: 80px;
+    background-color: blue;
+    padding: 50px;
+}
+
+
+.amrcard{
+
+    margin-top: 50px !important;
+    text-align: center;
+    background-color:blueviolet;
+    color:#fff;
+   
+}
+
+
+.productcard{
+    background-color: palevioletred;
+    color: papayawhip;
+   
+}
+
+.product_box{
+    background-color: purple;
+    color: #fff;
+}
+
+.agebox{
+    margin: 80px;
+   
+}
+
+
+
+.age_counter{
+    font-size: 50px;
+    font-weight: 600;
+    
+}
